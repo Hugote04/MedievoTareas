@@ -1,0 +1,22 @@
+[
+  {
+    "origin": [
+      "http://localhost:5000",
+      "actividad-3-4badb.firebasestorage.app",
+      "*"
+    ],
+    "method": [
+      "GET",
+      "HEAD",
+      "OPTIONS",
+      "POST",
+      "PUT",
+      "DELETE"
+    ],
+    "maxAgeSeconds": 3600,
+    "responseHeader": [
+      "Content-Type",
+      "Authorization"
+    ]
+  }
+]
